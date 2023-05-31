@@ -1,8 +1,8 @@
                     # travel_app
 <p>
-<img src="assets/1.jpeg" width=200px height=200px>
- <img src="assets/2.jpeg" width=200px height=200px>
- <img src="assets/3.jpeg" width=200px height=200px>
+<img src="assets/1.jpeg" width=200px height=400px>
+ <img src="assets/2.jpeg" width=200px height=400px>
+ <img src="assets/3.jpeg" width=200px height=400px>
 </p>
 A new Flutter project.
 
