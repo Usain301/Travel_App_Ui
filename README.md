@@ -1,13 +1,12 @@
                     # travel_app
 <p>
-<img src="assets/bali.jpg" >
+<img src="assets/1.jpeg" width=200px height=200px>
+ <img src="assets/2.jpeg" width=200px height=200px>
+ <img src="assets/3.jpeg" width=200px height=200px>
 </p>
 A new Flutter project.
 
 ## Getting Started
-<p>
-<img src="https://resmim.net/i/SwoFj2" >
-  </p>
 T##  <a name="requirements"></a> :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Flutter](https://flutter.dev/) installed.
