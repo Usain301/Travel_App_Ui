@@ -1,6 +1,7 @@
                     # travel_app
 <p>
-<img src="https://resmim.net/i/SwoFj2" >
+<img src="Travel_App_Ui/assets
+/bali.jpg" >
 </p>
 A new Flutter project.
 
