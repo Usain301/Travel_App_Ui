@@ -1,5 +1,7 @@
 # travel_app
+<p>
 <img src="https://imgyukle.com/i/r5Rfxh" >
+  </p>
 A new Flutter project.
 
 ## Getting Started
