@@ -1,7 +1,7 @@
-# travel_app
+                    # travel_app
 <p>
 <img src="https://resmim.net/i/SwoFj2" >
-  </p>
+</p>
 A new Flutter project.
 
 ## Getting Started
