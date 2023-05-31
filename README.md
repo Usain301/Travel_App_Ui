@@ -10,7 +10,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/usain301/qr_scanner.git
+$ git clone https://github.com/usain301/Travel_App_Ui.git
 
 # Access
 $ cd Travel_App_Ui
