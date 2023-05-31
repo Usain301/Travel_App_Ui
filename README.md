@@ -1,5 +1,5 @@
 # travel_app
-<img src="https://imgyukle.com/i/r5Rfxh" width="120" height="150">
+<img src="https://imgyukle.com/i/r5Rfxh" >
 A new Flutter project.
 
 ## Getting Started
