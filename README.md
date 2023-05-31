@@ -1,6 +1,6 @@
 # travel_app
 <p>
-<img src="(https://yoldaolmak.com/wp-content/uploads/2017/07/seyahat-uygulamalari.jpg)" >
+<img src="https://yoldaolmak.com/wp-content/uploads/2017/07/seyahat-uygulamalari.jpg" >
   </p>
 A new Flutter project.
 
