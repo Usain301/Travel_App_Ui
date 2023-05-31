@@ -1,7 +1,6 @@
                     # travel_app
 <p>
-<img src="Travel_App_Ui/assets
-/bali.jpg" >
+<img src="assets/bali.jpg" >
 </p>
 A new Flutter project.
 
