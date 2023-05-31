@@ -5,7 +5,9 @@
 A new Flutter project.
 
 ## Getting Started
-
+<p>
+<img src="https://resmim.net/i/SwoFj2" >
+  </p>
 T##  <a name="requirements"></a> :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Flutter](https://flutter.dev/) installed.
