@@ -1,7 +1,5 @@
 # travel_app
-<img src="https://imgyukle.com/i/r5Rfxh> alt="resme alternatif yazı">
-<img src="https://imgyukle.com/i/r5Rfxh" alt="resme alternatif yazı">
-<img src="https://imgyukle.com/i/r5Rfxh" alt="resme alternatif yazı">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732208.png?w=360" width="120" height="150">
 A new Flutter project.
 
 ## Getting Started
